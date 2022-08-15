@@ -1,9 +1,11 @@
 Eden's Portfolio
 
+I have created a Portfolio that is consist of my projects 
+
 ##screenshot of my portfolio
 
-![screenshot](C:\Users\edenm\OneDrive\Desktop\coding\homeworks\02-css-advanced\Assets\pic-of-portfolio.png)
+![screenshot](Assets/port.png)
 
 ## link to application 
 
-![link]https://eden-10.github.io/02-css-advanced/index.html 
+![link]
