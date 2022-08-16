@@ -143,8 +143,8 @@ body {
     display: flex;
     padding: 8px;
 } */
-@media (max-width: 650px) {
+/* @media (max-width: 650px) {
     .section-selector-1 {
         background-color: burlywood;
     }
-}
+} */
