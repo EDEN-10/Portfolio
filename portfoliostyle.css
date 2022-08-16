@@ -143,7 +143,7 @@ body {
     display: flex;
     padding: 8px;
 } */
- @media (max-width: 650px) {
+ @media screen and (max-width: 300px) {
     .h1 {
         background-image: url(../assets/prime-blogs-Taking-more-of-your-business-to-the-cloud-dont-let-bad-cloud-strategy-get-you-down.jpg);
     }
