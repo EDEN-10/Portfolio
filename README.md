@@ -1,11 +1,33 @@
 Eden's Portfolio
 
-I have created a Portfolio that is consist of my projects 
+# MERN Redux Store
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
+## Table of Contents
+- [Description](#description)
+- [App Screenshot](#app screenshot) 
+- [Usage](#usage)
+- [Link to application](#linktoapplication)
+- [Questions](#questions)
 
-##screenshot of my portfolio
+## Description
+
+My portfolio 
+
+## Installation
+
+used css and html
+
+## Usage
+
+download the website
 
 ![screenshot](Assets/port.png)
 
-## link to application 
+## Link to application 
 
 ![link](https://eden-10.github.io/Portfolio)https://eden-10.github.io/Portfolio/
+
+
+## Questions
+ [Github](https://github.com/EDEN-10) 
+ [Email](mailto:yigll002@umn.edu)
